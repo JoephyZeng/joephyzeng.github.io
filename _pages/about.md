@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Jiapeng LIU now is a postdoctoral research fellow in Prof. [Francesco CIUCCI](https://ciucci.org/)'s research group. In September 2020, Jiapeng obtained his Ph.D. in Mechanical Enginnering from the [Hong Kong University of Science and Technology](https://www.ust.hk/). Before that, he received the B.Eng from [Northwestern Polytechnical University](https://www.nwpu.edu.cn/) as an outstanding graduate in 2013. Jiapeng's research interest mainly focuses on studying energy materials for fuel cells and batteries using atomistic simulations and modeling the system with machine learning or finite element method.
+Zhuohui Zeng now is a PhD candidate in Prof. [Xian (Sherry) Chen](https://xchen.mae.ust.hk/#/home)'s research group. In September 2016, Joephy obtained his B.Eng from Sun Yat-sen University. Joephy's research interest mainly focuses on martensitic materials, differential interference microscopy system, experimental mechanics, nano-mechanics, energy conversion and funtional material synthesis.
 
 
 <!---front page of a website that is powered by the [academicpages template]
-In After then, he spent about one year as a research assistant at Xi'an Jiaotong University, and another one and a half years as a research assistant at City Univerity of Hong Kong. 
+
 (https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
