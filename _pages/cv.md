@@ -18,12 +18,12 @@ Education
   
 Research interests
 ======
-* Solid State Electrolyte
-* First-Principles Study
-  * Density Functional Theory
-  * Molecular Dynamics
-* Electrochemical Impedance Spectroscopy
-* Machine Learning
+* Experimental mechanics
+  * Differential interference contrast microscopy (DInM) system
+  * Digital image correlation (DIC)
+* Mechanical characterization and applications of soft materials
+* Mechanical characterization and applications of martensitic materials
+* Developments and applications of piezoelectric materials and pyroelectric materials
   
 Honors and awards
 ======
@@ -32,21 +32,38 @@ Honors and awards
 * 2014, The Second Prize, Mathematical Contest in Modeling of Sun Yat-Sen University
 * 2012, Outstanding volunteer, Sun Yat-Sen University Young Volunteers Association
   
-Work experience
+Research experience
 ======
-* Mar, 2015 - Jul, 2016: Research Assistant
-  * [City University of Hong Kong](http://www.ninglab.org/)
-  <!---* Supervisor: Professor Zhi Ning
-  --->
-  * Project: Continuous Monitoring of Roadside Air Quality in Hong Kong
-    * Constructed Neural Network Model for air pollutant concentration prediction.
-    * Designed experiments for investigating and improving chemical sensor’s performance.
+* Design and build up dual beam-shear differential interference contrast (D-DInM) microscope optical system (Oct., 2017 - present)
+  * [The Hong Kong University of Science and Technology](https://www.ust.hk/home)
+  * This system is used to reconstruct the 3D surface topography of opaque materials under mechanical or thermal loading. Our experimental set up can in-situ observe the surface topography of specimens with data acquisition rate of 28 data points per second. We are using this system to study the mechanism of martensitic transformation process and observe the stress concentration of transition layer during the martensitic transformation.
 
-* Jun, 2013 - Nov, 2014: Research Assistant
-  * [Xi’an Jiaotong University](http://www.xjtu.edu.cn/)
-  * Project: Numerical Simulation of Transcritical CO<sub>2</sub> Heat Pump System
-    * Conducted a new algorithm to numerically simulate the cooling process of gas cooler.
-    * Developed the analysis and design software based on C++.
+
+* Characterizing the mechanical property of soft materials during buckling process (Nov., 2018 - present)
+  * [The Hong Kong University of Science and Technology](https://www.ust.hk/home)
+  * Based on our microscope system, we characterize the mechanical property of electronic microsystem under external mechanical loading. We can observe the stress concentration of the electronics circuit and we can give the suggestions to improve the design based on the results.
+
+
+* Using ferroelectric materials to convert energy (Feb., 2018 - present)
+  * [The Hong Kong University of Science and Technology](https://www.ust.hk/home)
+  * Utilizing the change of polarization during the martensitic transformation of ferroelectric materials under thermal loading to convert the heat to electrical energy. We already verify the feasibility of this energy conversion concept and we are designing better materials and analyzing the leakage properties of materials.
+
+
+* Measuring optical beam shear angle of birefringent prisms (Oct., 2018 - Jan., 2019)
+  * [The Hong Kong University of Science and Technology](https://www.ust.hk/home)
+  * A new method to precisely determine the shear angle of birefringence crystals with precision of micro-rad has been proposed by us. The precision of this method is beyond the diffraction limit.
+
+
+* Simulation of 1D X-ray diffraction of on polycrystalline materials (June., 2017 – Sep., 2017)
+  * [The Hong Kong University of Science and Technology](https://www.ust.hk/home)
+  * Simulate the X-ray diffraction in crystal powder. Using MATLAB to program this algorithm with a user interface.
+
+
+
+* Simulation of axial crushing of pressurized cylindrical tubes (Mar., 2014 - Aug., 2016)
+  * [Sun Yat-sen University](http://www.sysu.edu.cn/cn/index.htm)
+  * Simulate the mechanical respond of pressurized cylindrical tubes under axial crushing with ANSYS/LS-DYNA and analyze the deformation and energy absorption during the loading. We find that the energy absorption is not proportional to the internal pressure and optimize the internal pressure for the structure to absorb crashing energy.
+
   
 Publications
 ======
@@ -57,9 +74,9 @@ Publications
 Skills
 ======
 * Professional
-  *  VASP, CP2K, Gaussian, LAMMPS, Pytorch, Tensorflow
+  *  SolidWorks, AutoCAD, ANSYS, Fluent.
 * Programming
-  * Python, Matlab, Fortran
+  * Matlab, Labview, Maple, Mathematica, Python, Fortran.
 * Applications
   * Linux, LaTeX
 * Languages
