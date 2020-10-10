@@ -1,5 +1,5 @@
 ---
-title: "Measuring optical beam shear angle of polarizing prisms beyond thediffraction limit with localization method"
+title: "Dual beam-shear differential interference microscopy for full-field surface deformation gradient characterization"
 collection: publications
 permalink: /publication/2020-DDInM-JMPS
 excerpt: ''
