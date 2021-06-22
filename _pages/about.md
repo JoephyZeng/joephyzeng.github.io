@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Zhuohui Zeng now is a PhD candidate in Prof. [Xian (Sherry) Chen](https://xchen.mae.ust.hk/#/home)'s research group. In September 2016, Joephy obtained his B.Eng from Sun Yat-sen University. Joephy's research interest mainly focuses on martensitic materials, differential interference microscopy system, experimental mechanics, nano-mechanics, energy conversion and funtional material synthesis.
+Zhuohui Zeng graduated from Hong Kong University of Science and Technology as a Ph.D in Mechanical Engineering. His supervisors are Prof. [Xian (Sherry) Chen](https://xchen.mae.ust.hk/#/home) and Prof. [Shengwang Du](https://personal.utdallas.edu/~dusw/). In September 2016, Joephy obtained his B.Eng from Sun Yat-sen University. Joephy's research interest mainly focuses on martensitic materials, differential interference microscopy system, experimental mechanics, nano-mechanics, energy conversion and funtional material synthesis.
 
 
 <!---front page of a website that is powered by the [academicpages template]

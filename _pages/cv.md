@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D candidate in [Hong Kong University of Science and Technology](https://www.ust.hk/), from 2016
+* Ph.D in [Hong Kong University of Science and Technology](https://www.ust.hk/), 2021
   * Major: Mechanical Engineering
 * B.Eng. in [Sun Yat-sen University](http://www.sysu.edu.cn/cn/index.htm), 2016
   * Major: Mechanics
