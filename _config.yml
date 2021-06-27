@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhuohui Zeng (Joephy)"
 title_separator          : "-"
 name                     : &name "Zhuohui Zeng (Joephy)"
-description              : &description "PhD candidate @ HKUST"
+description              : &description "PhD @ HKUST"
 url                      : https://JoephyZeng.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JoephyZeng.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhuohui Zeng"
+  name             : "Zhuohui Zeng (Joephy)"
   avatar           : "profile.png"
-  bio              : "PhD student @ HKUST"
+  bio              : "PhD @ HKUST"
   location         : "Hong Kong"
   employer         : #"The Hong Kong University of Science and Technology"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
