@@ -13,4 +13,4 @@ Pyroelectric energy converter is a functional capacitor using pyroelectric mater
 
 [Download paper here](http://JoephyZeng.github.io/files/2020-Energy_PRApplied.pdf)
 
-Recommended citation: Zhang, C., Zeng, Z., Zhu, Z., Karami, M., & Chen, X. (2020). Impact of Leakage for Electricity Generation by Pyroelectric Converter. <u><b>Physical Review Applied</b></u>, 14(6), 064079.
+Recommended citation: Zhang, C., Zeng, Z., Zhu, Z., Karami, M., & Chen, X. (2020). Impact of Leakage for Electricity Generation by Pyroelectric Converter. <i><b>Physical Review Applied</b></i>, 14(6), 064079.
