@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-DDInM-JMPS
 excerpt: ''
 date: 2020-09-28
-venue: 'Optics Communications'
+venue: 'Journal of the Mechanics and Physics of Solids'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S002250962030394X'
 citation: '<u><b>Zeng, Z.</b></u>, Chiu, H. C., Zhao, L., Zhao, T., Zhang, C., Karami, M., Yu, H., Du, S. & Chen, X. (2020). Dual beam-shear differential interference microscopy for full-field surface deformation gradient characterization. <i><b>Journal of the Mechanics and Physics of Solids</b></i>, 104162.'
 
