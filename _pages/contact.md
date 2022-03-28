@@ -17,7 +17,7 @@ HKUST, Clear Water Bay, Hong Kong
   
 Telephone
 ======
-* (+852) 2358 7199
+* (+852) 5165 8113
   
 Email
 ======

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-In September 2016, Zhuohui Zeng obtained his B.Eng from Sun Yat-sen University. In July, 2021, Zhuohui Zeng graduated from Hong Kong University of Science and Technology as a Ph.D in Mechanical Engineering. His supervisors are Prof. [Xian (Sherry) Chen](https://xchen.mae.ust.hk/#/home) and Prof. [Shengwang Du](https://personal.utdallas.edu/~dusw/). Joephy's research interest mainly focuses on martensitic materials, differential interference microscopy system, experimental mechanics, nano-mechanics, energy conversion and funtional material synthesis.
+In September 2016, Zhuohui ZENG obtained his B.Eng from Sun Yat-sen University. In July, 2021, Zhuohui Zeng graduated from Hong Kong University of Science and Technology as a Ph.D in Mechanical Engineering. His supervisors are Prof. [Xian (Sherry) Chen](https://xchen.mae.ust.hk/#/home) and Prof. [Shengwang Du](https://personal.utdallas.edu/~dusw/). Joephy's research interest mainly focuses on martensitic materials, differential interference microscopy system, flexible thin film, experimental mechanics, nano-mechanics, energy conversion and funtional material synthesis. Dr. Zhuohui ZENG now is a research assistant in the Hong Kong University of Science and Technology, and is a senior optical engineer in Light Innovation Technology Ltd., Hong Kong Research Talent Hub project.
 
 
 <!---front page of a website that is powered by the [academicpages template]
