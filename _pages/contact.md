@@ -11,9 +11,9 @@ redirect_from:
 
 Address
 ======
-* Room G031, Lift 1,  
-Department of Mechanical and Aerospace Engineering,  
-HKUST, Clear Water Bay, Hong Kong
+* 1901, Light Innovation Technology,  
+On-tin Centre, San Po Kong,  
+Kowloon, Hong Kong
   
 Telephone
 ======
