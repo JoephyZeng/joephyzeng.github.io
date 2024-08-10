@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Working Experience
+======
+* Application Scientist in [LiT (Light Innovation Technology LTD)](https://www.lit.com.hk/), 2021
+
 Education
 ======
 * Ph.D in [Hong Kong University of Science and Technology](https://www.ust.hk/), 2021
