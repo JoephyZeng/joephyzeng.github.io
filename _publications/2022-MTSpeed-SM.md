@@ -3,7 +3,8 @@ title: "In situ thermal-microstructure characterization of a phase-transforming 
 collection: publications
 permalink: /publication/2022-PTSpeed-SM
 excerpt: ''
-date: 202Scripta Materialia'
+date: 2022
+venue: 'Scripta Materialia'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S135964622200327X'
 citation: '<u><b>Zeng, Z.</b></u> & Chen, X. (2022). In situ thermal-microstructure characterization of a phase-transforming alloy satisfying cofactor conditions. <i><b>Scripta Materialia </b></i>, 218, 114831.'
 
