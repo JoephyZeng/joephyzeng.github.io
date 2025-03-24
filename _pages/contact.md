@@ -17,10 +17,9 @@ Kowloon, Hong Kong
   
 Telephone
 ======
-* (+852) 5165 8113
   
 Email
 ======
-* zhzeng@connect.ust.hk
+
 
 
